@@ -1,1 +1,1 @@
-print("this is my First Python program")
+print("this is my seocnd Python program")
